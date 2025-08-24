@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wanfathan
 - 👀 I’m interested in maybe create a game or other stuff...Still exploring things i might like
-- 🌱 I’m currently learning C++ and creating a website
+- 🌱 I’m currently learning python and joining google's cybersecurity course 
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me : @wanfathanedruce (insta)
 - 😄 Pronouns: He/Him
